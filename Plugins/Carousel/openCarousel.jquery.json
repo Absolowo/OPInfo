@@ -1,0 +1,34 @@
+{
+    "name" : "openCarousel",
+    "version" : "1.1.0",
+    "title" : "jQuery Open Carousel",
+    "author" : {
+        "name" : "Justin McCandless",
+        "email" : "justinjmccandless@gmail.com",
+        "url" : "http://www.justinmccandless.com"
+    },
+    "description" : "A carousel that's as easy to customize and configure without javascript as it is to hack for any specific use",
+    "keywords" : [
+        "carousel",
+        "slideshow",
+        "slide",
+        "slider",
+        "image",
+        "bar",
+        "mutable"
+    ],
+    "licenses" : [
+        {
+            "type" : "MIT",
+            "url" : "https://raw.github.com/justinmc/jQuery-Open-Carousel/master/LICENSE.md"
+        }
+    ],
+    "docs" : "https://github.com/justinmc/jQuery-Open-Carousel/blob/master/README.md",
+    "demo" : "http://justinmccandless.com/demos/Scrolling-Image-Bar/index.html",
+    "bugs" : "https://github.com/justinmc/jQuery-Open-Carousel/issues",
+    "homepage" : "https://github.com/justinmc/jQuery-Open-Carousel",
+    "dependencies" : {
+        "jquery" : ">=1.4.3"
+    }
+}
+
