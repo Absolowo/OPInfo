@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Torneo>
+  <Jugador>
+     <Nombre>Alejandro Herrera</Nombre>
+     <Lider>Monkey D. Luffy</Lider>
+     <Resultado>3-0</Resultado>
+  </Jugador>
+  <Jugador>
+     <Nombre>Marta González</Nombre>
+     <Lider>Kaido</Lider>
+     <Resultado>2-1</Resultado>
+  </Jugador><Jugador>
+     <Nombre>Luis Ramírez</Nombre>
+     <Lider>Donquixote Doflamingo</Lider>
+     <Resultado>2-1</Resultado>
+  </Jugador><Jugador>
+     <Nombre>Ana Sánchez</Nombre>
+     <Lider>Eustass "Captain" Kidd</Lider>
+     <Resultado>2-1</Resultado>
+  </Jugador><Jugador>
+     <Nombre>Javier Martínez</Nombre>
+     <Lider>Monkey D. Luffy</Lider>
+     <Resultado>1-2</Resultado>
+  </Jugador><Jugador>
+     <Nombre>Laura Torres</Nombre>
+     <Lider>Eustass "Captain" Kidd</Lider>
+     <Resultado>1-2</Resultado>
+  </Jugador><Jugador>
+     <Nombre>Carlos Rodríguez</Nombre>
+     <Lider>Eustass "Captain" Kid</Lider>
+     <Resultado>1-2</Resultado>
+  </Jugador><Jugador>
+     <Nombre>Isabel Vargas</Nombre>
+     <Lider>Donquixote Doflamingo</Lider>
+     <Resultado>0-3</Resultado>
+  </Jugador>
+</Torneo>
