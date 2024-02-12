@@ -88,7 +88,7 @@ function registro(event) {
 
 //----Cuenta atrás
 
-const DATE_TARGET = new Date('01/01/2024 0:01 AM');
+const DATE_TARGET = new Date('04/01/2024 0:01 AM');
 const SPAN_DAYS = document.querySelector('span#days');
 const SPAN_HOURS = document.querySelector('span#hours');
 const SPAN_MINUTES = document.querySelector('span#minutes');
